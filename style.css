@@ -1,0 +1,17 @@
+.flex-div{
+    /* margin-top: 20px; */
+    max-width: 1200px;
+    margin: 35px auto;
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+form{
+    padding-left: 310px;
+}
+.back-to-top a{
+    text-decoration: none;
+    color: antiquewhite;
+    
+}
